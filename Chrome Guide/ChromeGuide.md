@@ -70,6 +70,7 @@ The incredible features of Google Chrome are one of the reasons it is so well-li
    ![](Images/CG%205.png)
 
 3. Input a URL (Uniform Resource Locator) or "website" as some would call it and hit Enter.
+   
    ![](Images/CG%206.png)
 
    ![](Images/CG%207.jpeg)
